@@ -1,0 +1,6 @@
+{
+"configuration"	: {
+    		   "folder_to_monitor"  : "c:\\temp",
+     		   "recursive"		: "False"	
+	          }
+}
