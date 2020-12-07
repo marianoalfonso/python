@@ -1,0 +1,1 @@
+read_config: "lee un archivo de configuracion o cualquier otra cosa desde un archivo JSON"
